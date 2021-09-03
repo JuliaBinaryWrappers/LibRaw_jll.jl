@@ -1,0 +1,236 @@
+[[LibRaw]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09082183fef6b188f86a36e7d9df8423e82c844e"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "8b0edb9ea3e3a2ab34dc557f84bcd1fefaece43dca698883676e27d429dacd6e"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[LibRaw]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3d66e1dbac61768fa4d7de8d6f9d7a00ed63b6f"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "c6a2b280c28ed94ec3aa280ba2e647efed8ea0a5541f7567ab891e29e73103c4"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[LibRaw]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73277c50bf2e31fe4557ef8d576bd951e4d61fb1"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "a077088d50abc885ed3475ed0eb7e394173a99b4a25f9dfc72ea75f973bcff66"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.aarch64-linux-musl-cxx03.tar.gz"
+[[LibRaw]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "310297d2e058811fefceff25e1dc78f4830df54e"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "6c1f3044409b76f71b2f84f6efacf877b015199a08ce6ee6c03a4dec0ffb85b5"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.aarch64-linux-musl-cxx11.tar.gz"
+[[LibRaw]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4050aaaf75920a3db4c29cde0f113e4b347b47cb"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "1343b36c4dd9d8d0c984fe4630d4d1e376ec50d189c473ae2d0f9b341a9f7b0d"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LibRaw]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a8569b4c4b1f333fa1e98394c0b1aedd5a24fc7"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "b6b05afb26624cc79ad7d78336d3145d0b3c8a46f70f8906398195552b8d3e5e"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LibRaw]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a60658f62245e3546b0187b17295554023c4602"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "1a35367f687c74cea9356b10d97eef6f04f87fbb61ff6c3186062fd983866ccd"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LibRaw]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0795fe767fe02ad481efa769fc611362503f9e99"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "bc53c7bb89afac27d02f15e971cdd6df6b1eebe38e78f7bcfeaee16bba1d8b60"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "84b4c86f4c35178190c4573c3bad29109ad62d74"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "e8d51e047b96d5cf4427e2901065c3bb54005b755cf1886b135f492d8b0165bb"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-linux-gnu-cxx03.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dcdb97cef32d0c59933f916ed947e6c456525310"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "edb556f5c0c11965ea08554167437bf139a1446669356a003c8e8042b5a2621b"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-linux-gnu-cxx11.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04227462ced1397502ee44138b7d1d9797d0e28c"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "7871cb593ce52e668a31adca9fab4fa4a126206c263997dc2e1e61aca1c6ac40"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-linux-musl-cxx03.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "301631b81b4cd9e7072ac2d735c0564c3e4f5cf1"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "15ca04657b2fe9e3383eadd006e04791968512d4fd85226facbcb898a31a82bf"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-linux-musl-cxx11.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50f22bec798d743bb4b8532c7923aab902966346"
+os = "windows"
+
+    [[LibRaw.download]]
+    sha256 = "d41a735ecb5468fa7e4fd0cb2f0286c90169dacb478fe21d80c51cb4faee2a78"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-w64-mingw32-cxx03.tar.gz"
+[[LibRaw]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "559faf5665269cf5d0d65ece3d052366cb16703c"
+os = "windows"
+
+    [[LibRaw.download]]
+    sha256 = "02aa25e5d7337acc31f6cc9ebdaeb5f79e287cceadf89d02538d2bee36339b58"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.i686-w64-mingw32-cxx11.tar.gz"
+[[LibRaw]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bcd73fd45e93f23d3a20f8125220fcb3acf091"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "5cb151c57144a234cb540ba3b9f814d53e38bcb1749b7adcc028e4c1e18bbe79"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LibRaw]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38d8e01a96edd146846fee755702f9212d78e289"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "80464d75c8e78f0a8c79714d5af5e21d0eefec813d0c45b48ef361e1f2fee52a"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+git-tree-sha1 = "89012ea5254391190eb51dc83bee6219ceaa6de0"
+os = "macos"
+
+    [[LibRaw.download]]
+    sha256 = "f79b7ee2e1b8bbb8dcbacf56253bc1b71147891aee0f1ff6c2b539a958ce4505"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-apple-darwin.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a197a953fd46df192678f27d00f3f69c9140296f"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "bfd2583a508766775d177498f9a60cfc8fd180734c6e6f9fb2711b8d7c847c70"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54fce1e76fcf0b017e766684f32869eeed36589a"
+libc = "glibc"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "d812e13c391558989f3aa46cdeff0f3c5cc751b82a6422ad776f20da2987dd83"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "22a6f0328dca829b08d16a8af210e2ca92b84701"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "2af6f6f66d00194dbafc5738c4133f4ad6c4ec419c6e0eb025be0bd3717b5185"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-linux-musl-cxx03.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bf04c8469e77a34a92eb4241aaae5d453a6cd94"
+libc = "musl"
+os = "linux"
+
+    [[LibRaw.download]]
+    sha256 = "3064ce588075f504bb59b5d9562f837a1176f2cd34ef0fa9209df23cda2b0485"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-linux-musl-cxx11.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+git-tree-sha1 = "f64bb4b34baaaae04519bd0f6fc8bf31083064f4"
+os = "freebsd"
+
+    [[LibRaw.download]]
+    sha256 = "29716ecdf8c0358cff8e299cc46934a69098e5630695162c4d5f04ff4d7b083c"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-unknown-freebsd.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c47cfbdcebcd15fec3a56678cdc05104215f02a"
+os = "windows"
+
+    [[LibRaw.download]]
+    sha256 = "7ddc79fa3d51e3f7af0db9a17b77520130b9b9718f14bf4619c431fe7886e508"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LibRaw]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9015cb9b6b0ba0da07800ae05b95c7b20b516d67"
+os = "windows"
+
+    [[LibRaw.download]]
+    sha256 = "4d13234a1bc0f02332cb5cce40eeeead8ffa4f6ac749984c919e4b1ba1236aa3"
+    url = "https://github.com/JuliaBinaryWrappers/LibRaw_jll.jl/releases/download/LibRaw-v0.20.2+0/LibRaw.v0.20.2.x86_64-w64-mingw32-cxx11.tar.gz"

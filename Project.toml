@@ -1,0 +1,18 @@
+name = "LibRaw_jll"
+uuid = "d66ac3f3-933a-5ab8-8aa2-9e591b3c5af3"
+version = "0.20.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+JpegTurbo_jll = "aacddb02-875f-59d6-b918-886e6ef4fbf8"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JasPer_jll = "f6ca3df5-1ae7-521a-b96b-cb83f57f3f1f"
+LittleCMS_jll = "d3a379c0-f9a3-5b72-a4c0-6bf4d2e8af0f"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
